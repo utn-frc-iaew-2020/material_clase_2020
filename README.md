@@ -2,7 +2,7 @@
 
 ## Modalidad
 
-http://www.institucional.frc.utn.edu.ar/sistemas/noticias/ACA/Modalidades/2019/385_integracion_de_aplicaciones_en_entorno_web_2019.doc
+http://www.institucional.frc.utn.edu.ar/sistemas/noticias/ACA/Modalidades/2020/B47_iaew_2020.pdf
 
 ## Canal de Slack 
 Utilizaremos Slack como canal de comunicación directa entre todos. Creamos un espacio en Slack (utn-frc-iaew-2020
