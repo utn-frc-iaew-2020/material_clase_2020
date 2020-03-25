@@ -4,6 +4,9 @@
 
 http://www.institucional.frc.utn.edu.ar/sistemas/noticias/ACA/Modalidades/2020/B47_iaew_2020.pdf
 
+## ZOOM
+https://zoom.us/j/8944679988
+
 ## Canal de Slack 
 Utilizaremos Slack como canal de comunicación directa entre todos. Creamos un espacio en Slack (utn-frc-iaew-2020
 ) para que podamos compartir info, dudas, preguntas etc (teniendo en cuenta que Autogestion es nuestro canal oficial y este es solo una herramienta adicional). Pueden sumarse al espacio ingresando a este link:
