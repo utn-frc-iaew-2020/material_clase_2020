@@ -1,0 +1,4 @@
+TP: 
+Crear almacén de claves. 
+Crear solicitud de certificado. 
+Buscar sitios que contengan certificados inválidos.

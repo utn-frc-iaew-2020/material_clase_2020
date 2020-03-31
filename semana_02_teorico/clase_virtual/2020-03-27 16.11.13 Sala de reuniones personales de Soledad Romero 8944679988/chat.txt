@@ -1,0 +1,13 @@
+16:13:47	 From  Chiara Massetti : todo bien
+16:13:49	 From  Gastón García : Si, bien
+16:34:08	 From  Gastón García : Si, se entendió
+16:34:15	 From  Chiara Massetti : todo claro
+16:34:16	 From  Julio Achaval : Se entendió
+16:34:20	 From  Facundo Muñoz : ¡Se entendió!
+16:35:03	 From  Julio Achaval : ¿Los archivos con comandos están en la UV?
+16:35:14	 From  Fran Castillo : profe. La autofirma se utiliza con fines educativos? o hay empresas que se manejan asi?
+16:36:46	 From  Fran Castillo : ah gracias
+16:37:15	 From  Julio Achaval : ¿Let's encrypt autority X3 es un certificador válido?
+16:38:13	 From  Julio Achaval : Genial
+16:38:14	 From  Julio Achaval : GRacias
+16:38:51	 From  Fran Castillo : de donde se baja profe? la herramienta

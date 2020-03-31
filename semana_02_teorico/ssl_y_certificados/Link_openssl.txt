@@ -1,0 +1,8 @@
+openssl:
+
+http://gnuwin32.sourceforge.net/packages/openssl.htm
+https://sourceforge.net/projects/gnuwin32/files/openssl/0.9.8h-1/openssl-0.9.8h-1-setup.exe/download?use_mirror=ufpr
+
+jdk (puede ser cualquiera)
+https://www.oracle.com/java/technologies/javase-jdk8-downloads.html
+Por ejemplo, descargar jdk-8u241-windows-x64.exe

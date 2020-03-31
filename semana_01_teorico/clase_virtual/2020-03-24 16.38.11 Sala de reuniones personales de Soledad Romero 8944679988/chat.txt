@@ -1,0 +1,14 @@
+16:44:47	 From  Roman Sadowski : Peguelo aca en el chat profe. 
+16:44:54	 From  Soledad Romero : 3513867234
+16:45:11	 From  Alexis Zapata : Disculpe, los TPS son individuales?
+16:46:03	 From  Julio Achával : Chicos, hicimos un grupo de WP para esta materia: https://chat.whatsapp.com/DeAjCfFCWjw1TS0gXgeB8u
+17:02:07	 From  Julio Achával : Una duda, a la hora de programar, ¿Uno tiene que armar un string directamente respetando las reglas de Json o vienen complementos que te "transforman" un bojeto o conjunto a Json?
+17:05:41	 From  Fran Castillo : Cuando se corte el zoom nos reconectamos?
+17:06:25	 From  Soledad Romero : nos reconectamos si tienen dudas
+17:06:33	 From  Soledad Romero : arman un json valido
+17:12:12	 From  Julio Achával : Perfecto, entonces lo hacemos y se lo mandamos
+17:12:31	 From  Julio Achával : ¿Y las consignas de antes también las mandamos a ese correo?
+17:12:47	 From  Julio Achával : Ok
+17:12:50	 From  Julio Achával : Gracias
+17:13:15	 From  Alexis Zapata : Disculpe, los TPS son individuales?
+17:13:25	 From  Uriel Risso : genial, gracias , nos vemos la próxima clase
