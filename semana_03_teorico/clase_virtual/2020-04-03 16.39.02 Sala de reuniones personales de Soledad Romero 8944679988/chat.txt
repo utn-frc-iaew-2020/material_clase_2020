@@ -1,0 +1,11 @@
+16:39:28	 From  Fran Castillo : Si
+16:39:33	 From  Uriel Risso : si
+16:39:34	 From  Bruno Castellina : Sisi
+16:39:36	 From  Simón Mungi : si profe
+16:41:12	 From  Fran Castillo : si hacemos la petición con https la recibimos cifrada entonces?
+16:44:09	 From  Fran Castillo : ah claro
+16:45:01	 From  Alexis Zapata : el https te seguriza en termino de redes, los paquetes.. los datos los vas a ver siempre… verdad profe ?
+16:47:44	 From  Fran Castillo : podemos loggearnos a la pagina de la facu asi?
+16:59:16	 From  Matias Rouaux : si
+17:03:36	 From  Gastón García : Si
+17:12:46	 From  Julio Guillermo Achaval Vinuesa : Hasta le cliente

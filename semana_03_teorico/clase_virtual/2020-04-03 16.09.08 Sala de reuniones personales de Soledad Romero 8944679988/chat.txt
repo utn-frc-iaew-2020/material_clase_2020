@@ -1,0 +1,27 @@
+16:09:38	 From  Soledad Romero : https://drive.google.com/drive/folders/1wdtZI4F-NstuzUiRPnLaJUZ6EVSGN0tK?usp=sharing
+16:09:55	 From  Fran Castillo : listo
+16:11:38	 From  Julio Guillermo Achaval Vinuesa : Nunca
+16:11:42	 From  Bruno Castellina : No profe
+16:11:47	 From  Uriel Risso : no
+16:11:51	 From  Fran Castillo : es similar al postman?
+16:16:09	 From  Fran Castillo : Todas las peticiones van al backend no?
+16:19:20	 From  Matias Rouaux : si
+16:19:21	 From  Fran Castillo : SI
+16:19:22	 From  Uriel Risso : si
+16:19:24	 From  Simón Mungi : si 
+16:19:25	 From  Bruno Castellina : Si
+16:19:26	 From  nicolas bellanich : si
+16:22:07	 From  Julio Guillermo Achaval Vinuesa : Si
+16:22:08	 From  Pablo Lucero Schneider : Yo si profe
+16:22:14	 From  Gastón García : Ahí esta profe
+16:22:16	 From  nicolas bellanich : si
+16:22:17	 From  Chiara Massetti : si
+16:31:54	 From  Pablo Lucero Schneider : nop
+16:31:54	 From  Chiara Massetti : si
+16:31:54	 From  Fran Castillo : muy complicado?
+16:31:58	 From  Chiara Massetti : nono
+16:32:13	 From  Fran Castillo : bueno genial
+16:32:29	 From  Fran Castillo : nono, una consulta aparte
+16:32:52	 From  Gastón García : Profe si coloco curl.exe en la variable de entorno lo puedo usar en cualquier lado no?
+16:33:22	 From  Julio Guillermo Achaval Vinuesa : Sí
+16:34:43	 From  Julio Guillermo Achaval Vinuesa : Sí, las dos de hecho
