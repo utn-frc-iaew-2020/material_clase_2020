@@ -1,0 +1,27 @@
+16:51:23	 From  Matias Rouaux : Ninguna
+16:51:24	 From  Uriel Risso : si profe solo faltan los links
+16:51:43	 From  Fran Castillo : los link son por ejemplo una pagina de un diario?
+16:52:49	 From  Fran Castillo : los ítems tienen sus propios títulos, links y descripción no?
+16:57:18	 From  Julio Guillermo Achaval Vinuesa : ¿Hay algún problema si las noticias son reales? 
+16:57:27	 From  Julio Guillermo Achaval Vinuesa : Digo pro el tema que va a publicarlo
+16:57:54	 From  Julio Guillermo Achaval Vinuesa : Ok
+16:58:33	 From  Uriel Risso : que pegas en el validador?
+16:59:36	 From  Julio Guillermo Achaval Vinuesa : Ese validador no hace nada
+17:00:07	 From  Julio Guillermo Achaval Vinuesa : el de w3
+17:00:18	 From  Julio Guillermo Achaval Vinuesa : es el que copiándolo completo no me da ninguna salida
+17:00:38	 From  Pablo Lucero Schneider :  item should contain a guid element 
+17:00:45	 From  Pablo Lucero Schneider : Me recomienda eso profe
+17:02:41	 From  juan_4k3 : no falta el <xml ?
+17:04:13	 From  Uriel Risso : si profe
+17:04:16	 From  Fran Castillo : los parámetros del canal también los agregamos?
+17:04:18	 From  Fran Castillo : menos el link
+17:04:19	 From  Julio Guillermo Achaval Vinuesa : ME tira errores 
+17:04:27	 From  Julio Guillermo Achaval Vinuesa : Y no sé dónde
+17:04:39	 From  Pablo Lucero Schneider : A mi me tira sugerencias
+17:09:31	 From  Julio Guillermo Achaval Vinuesa : ¿Y con el link cómo podemos hacer?
+17:11:37	 From  Julio Guillermo Achaval Vinuesa : Pasa que me dice error en la linea 45, y tengo 38 líneas
+17:11:50	 From  Julio Guillermo Achaval Vinuesa : No, pero yo digo el link del canal
+17:11:54	 From  Fran Castillo : son líneas fantasma
+17:12:02	 From  Julio Guillermo Achaval Vinuesa : Jajajaja
+17:15:54	 From  Julio Guillermo Achaval Vinuesa : ¿Como una api? 
+17:18:15	 From  Julio Guillermo Achaval Vinuesa : No entendi, ¿Cómo se transforma el crs en rss?

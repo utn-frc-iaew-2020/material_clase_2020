@@ -1,0 +1,13 @@
+17:03:37	 From  Roman Sadowski : ahhh si son los que han ganado un lindo $$$ en estos últimos 3 años 
+17:04:07	 From  72626 Uriel Nicolas Risso : si profe
+17:05:42	 From  Bruno Castellina : Sisi
+17:05:52	 From  Roman Sadowski : si profe 
+17:17:38	 From  72626 Uriel Nicolas Risso : a mi no me aparecen
+17:18:09	 From  Roman Sadowski : lo del postman perfecto y con jwt tambien
+17:21:49	 From  Roman Sadowski :  En 0auth "azp": "oC5HQVy5gQRB4NdDnYhXC5Y83CU6Kg3j", Es el id de cliente en postman 
+17:23:33	 From  72626 Uriel Nicolas Risso : id de la aplicación CarRentalCor
+17:26:58	 From  Simón Mungi : si profe
+17:27:07	 From  Bruno Castellina : Si profe, no tuve ningún problema
+17:27:15	 From  72626 Uriel Nicolas Risso : si profe que vendría a ser el sub en este caso a que hacer referencia?
+17:28:01	 From  72626 Uriel Nicolas Risso : perfecto, gracias
+17:28:25	 From  72626 Uriel Nicolas Risso : api a la cual le estas brindando el token

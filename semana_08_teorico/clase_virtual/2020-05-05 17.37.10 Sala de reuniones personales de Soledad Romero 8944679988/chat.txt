@@ -1,0 +1,9 @@
+17:44:07	 From  Pablo Lucero Schneider : curl -u username:password http://example.com
+17:50:10	 From  Bruno Castellina : No profe por hora no
+17:50:14	 From  Uriel Risso : no profe todo bien
+17:50:48	 From  Julio Achaval Vinuesa : Sí, estaría bueno el Server para probar... Gracias profe
+17:53:46	 From  Julio Achaval Vinuesa : Sisi
+17:54:35	 From  Julio Achaval Vinuesa : Perfecto profe
+17:54:36	 From  Uriel Risso : gracias profe nos vemos
+17:54:37	 From  Julio Achaval Vinuesa : GRacias
+17:54:39	 From  Bruno Castellina : Gracias profe, saludos!
